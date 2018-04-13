@@ -32,7 +32,8 @@ public class UsersServlet extends HttpServlet {
     //sign up
     public void doPost(HttpServletRequest request,
                        HttpServletResponse response) throws ServletException, IOException {
-        //todo: module 2 home work
+
+
     }
 
     //change profile
